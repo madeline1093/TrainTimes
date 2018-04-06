@@ -28,7 +28,6 @@ var config = {
     trainData.ref().push(newTrain);
   // logs everything to console
     //console.log(trainData);
-  // alert - employee successfully added
 
   //clears all of the textboxes
   $("#train-name-input").val('');
